@@ -1,3 +1,4 @@
 anthropic
 python-docx
 streamlit
+python-dotenv
